@@ -1,8 +1,4 @@
--- DB Lab-6
--- Topic: Data Aggregation using GROUP BY and HAVING
--- name: Tridev Kumar
 
----
 
 ## -- PART A: BASIC AGGREGATE QUERIES
 
