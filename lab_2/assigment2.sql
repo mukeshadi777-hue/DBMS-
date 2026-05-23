@@ -1,7 +1,4 @@
--- Name: Tridev Kumar
--- Roll No: 22410
--- Subject: DBMS Lab
--- Assignment: 2
+
 create table department (
     dept_id int primary key,
     dept_name varchar(50),
