@@ -1,18 +1,3 @@
--- Name: Tridev Kumar
--- Roll No: 22410
--- Subject: DBMS Lab
--- Assignment: 1
--- Database: Oracle SQL
-
--- 1. Create database
--- CREATE DATABASE CollegeDB;
-
--- 2. Use the database
--- USE CollegeDB;
-
--- Note:
--- Oracle database is pre-created.
--- Tables are created in the current schema.
 
 
 -- 3. Create Student table
